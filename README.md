@@ -1,6 +1,4 @@
-# banking
-
-A new Flutter project.
+# Designed and developed a cutting-edge Flutter e-Banking Application for seamless bank transactions
 
 ## Getting Started
 
@@ -14,3 +12,9 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+![Logo Project](https://github.com/boutzoua/Flutter-EBanking-Application/blob/main/assets/1.jpeg)
+![Main Page ](https://github.com/boutzoua/Flutter-EBanking-Application/blob/main/assets/1.jpeg)
+
+
+
