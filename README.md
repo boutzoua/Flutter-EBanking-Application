@@ -13,8 +13,8 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-<img src="https://github.com/boutzoua/Flutter-EBanking-Application/blob/main/assets/1.jpeg" alt="Logo" width="300" height="300">
-<img src="https://github.com/boutzoua/Flutter-EBanking-Application/blob/main/assets/2.jpeg" alt="Main Page" width="200" height="600">
+<img src="https://github.com/boutzoua/Flutter-EBanking-Application/blob/main/assets/1.jpeg" alt="Logo" width="200" height="200">
+<img src="https://github.com/boutzoua/Flutter-EBanking-Application/blob/main/assets/2.jpeg" alt="Main Page" width="200" height="450">
 
 
 
