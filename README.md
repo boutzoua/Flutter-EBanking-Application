@@ -14,7 +14,7 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 ![Logo Project](https://github.com/boutzoua/Flutter-EBanking-Application/blob/main/assets/1.jpeg)
-![Main Page ](https://github.com/boutzoua/Flutter-EBanking-Application/blob/main/assets/1.jpeg)
+![Main Page ](https://github.com/boutzoua/Flutter-EBanking-Application/blob/main/assets/2.jpeg)
 
 
 
